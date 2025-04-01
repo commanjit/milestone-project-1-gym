@@ -42,5 +42,3 @@ This website is useful for Gym members and potential members, who want to know m
 ## Version History
 * 0.1
     * Initial Release
-## License
-This project is licensed under @commanjit License.
