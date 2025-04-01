@@ -28,7 +28,7 @@ This website is useful for Gym members and potential members, who want to know m
 ## Site goal
 * The gym is interested in attracting and retaining members.
 
-## Features
+## Features
 * Gallery photos of people having fun exercising in the gym to motivate people to come.
 
 * Provide detail on the organised classes in the gym and their schedule.
